@@ -1,8 +1,13 @@
 {
-  "name": "<cs cloud>",
-  "description": "<akan terlihat di aplikasi cloudstream>",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "<https://v9.animasu.cc>"
+  "name": "My Custom Repository",
+  "version": "1.0",
+  "plugins": [
+    {
+      "name": "My Plugin",
+      "package": "com.example.myplugin",
+      "version": "1.0",
+      "url": "https://v9.animasu.cc",
+      "description": "A custom plugin for CloudStream."
+    }
   ]
 }
