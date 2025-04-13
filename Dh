@@ -1,0 +1,8 @@
+{
+  "name": "<cs cloud>",
+  "description": "<akan terlihat di aplikasi cloudstream>",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "<direct link to plugins.json>"
+  ]
+}
